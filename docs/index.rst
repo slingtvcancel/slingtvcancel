@@ -3,11 +3,12 @@ How to Cancel Sling TV Subscription? | Step-by-Step Guide
 
 If you no longer need your Sling TV service, you can cancel your subscription through your account settings. Once canceled, you can continue using Sling TV until the end of your current billing period, after which your subscription will not renew automatically. This guide explains how to cancel your Sling TV subscription, what happens after cancellation, and answers common questions about the process.
 
-.. image:: https://img.shields.io/badge/Cancel%20Subscription-blue?style=for-the-badge&logo=tv&logoColor=white
+.. image:: https://img.shields.io/badge/CANCEL%20NOW-blue?style=for-the-badge&logo=tv&logoColor=white
    :width: 230px
    :align: center
    :target: https://cancelnow.us/
    :alt: Cancel Sling TV Subscription Button
+
 
 Why Cancel a Sling TV Subscription?
 ===================================
